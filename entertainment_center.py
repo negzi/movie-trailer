@@ -1,6 +1,8 @@
 from  media import Movie
 import fresh_tomatoes
 
+""" This module is responsible for instantiating the movies inherited from the media"""
+
 spectre = Movie("Spectre", 
                 "James bond movie",
                 "http://cdn0.theawl.com/wp-content/uploads/2015/09/CN_YqmzWEAEExOx.jpg-large.jpeg",

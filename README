@@ -1,0 +1,22 @@
+
+                          Movie Trailer
+
+  What is it?
+  -----------
+
+  The Movie Trailer project is a web page that users can see different
+  trailers of movies. If a user wants to add a new movie he/she can 
+  simply create a new instance in entertainment_center.py and add the
+  descriptions of the new movie there. Then open the fresh_tomatoes.html
+  in a browser and voalla the new trailer is added in the web page.
+
+  The Latest Version
+  ------------------
+
+  Details of the latest version can be found on the Apache HTTP
+  server project page under http://httpd.apache.org/.
+
+  Installation
+  ------------
+  
+  Just clone the project and open the html file in your browser.
