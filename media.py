@@ -14,3 +14,4 @@ class Movie:
     
     def show_poster(self):
         return webbrowser.open(self.poster)
+
